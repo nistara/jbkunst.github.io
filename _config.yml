@@ -12,7 +12,7 @@ include: ['_pages']
 layout: post
 permalink: /:categories/:title/
 
-url: http://jkunst.com
+url: nistara.github.io
 
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
